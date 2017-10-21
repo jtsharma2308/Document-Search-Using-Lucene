@@ -1,0 +1,9 @@
+# Format:
+#
+#       qnum   0   doc-name     is-relevant
+#
+#
+
+0 	 0 	 inputFiles\Apache_Pig_Setup_And_Examples.pdf     	 1
+0 	 0 	 inputFiles\Structure of an HTML 4 Document.html     	 0
+0 	 0 	 inputFiles\test.xml    	 1
